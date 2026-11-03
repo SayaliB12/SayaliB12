@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:12306B,100:00C6FF&section=header&animation=twinkling" width="100%" alt="Header banner"/>
@@ -171,4 +171,3 @@ Currently, I am developing my practical knowledge of DevOps tools and working on
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00C6FF,50:12306B,100:020617" width="100%" alt="Footer banner"/>
 
 </div>
-```
